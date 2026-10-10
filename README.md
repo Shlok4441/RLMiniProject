@@ -34,10 +34,7 @@ Smart_Irrigation_RL/
 │   ├── environment.py
 │   ├── q_learning.py
 │   └── baselines.py
-│
-├── outputs/
-└── report/
-    └── mini_project_report.md
+
 ```
 
 ## How to Run
